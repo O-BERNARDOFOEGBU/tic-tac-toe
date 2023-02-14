@@ -1,6 +1,5 @@
 {
   "name": "tic-tac-toe",
-  "homepage": "http://O-BERNARDOFOEGBU.github.io/tic-tac-toe",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,6 +11,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "http://O-BERNARDOFOEGBU.github.io/tic-tac-toe",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "yarn run build",
